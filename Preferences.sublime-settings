@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark7.tmTheme",
+	"fold_buttons": true,
+	"font_face": "Anonymous Pro",
+	"font_size": 18.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Theme - Glacier",
+		"ConvertToUTF8",
+		"Colorcoder",
+		"ColorPick"
+	],
+	"original_color_scheme": "Packages/Color Scheme - Default/Flatland Dark6.tmTheme",
+	"scroll_past_end": true,
+	"theme": "Flatland Dark.sublime-theme",
+	"word_wrap": true
+}
