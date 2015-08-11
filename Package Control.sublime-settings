@@ -4,24 +4,8 @@
 	],
 	"installed_packages":
 	[
-		"Alignment",
-		"All Autocomplete",
-		"AutoFileName",
-		"Autoprefixer",
-		"BracketHighlighter",
-		"ColorPicker",
-		"CSS Format",
-		"CSScomb",
-		"Emmet",
-		"Hex to HSL Color Converter",
-		"JsFormat",
-		"Markdown Extended",
-		"Markdown Preview",
 		"Package Control",
 		"Package Syncing",
-		"PackageSync",
-		"Placeholders",
-		"SublimeCodeIntel",
 		"Theme - Flatland"
 	]
 }
